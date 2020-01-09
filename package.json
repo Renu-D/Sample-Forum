@@ -24,7 +24,7 @@
     "mocha": "^6.2.1",
     "mockgoose": "^8.0.3",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "rootpath": "^0.1.2",
     "supertest": "^4.0.2"
   },
