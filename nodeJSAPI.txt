@@ -1,0 +1,12 @@
+npm install
+npm start
+"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="c:\data\db"
+"C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
+mongoDB compass
+postman
+
+collection.find().sort({datefield: -1}, function(err, cursor){...});
+
+//"test": "mocha --recursive --exit",
+
+//"test": "mocha --timeout 10000"
